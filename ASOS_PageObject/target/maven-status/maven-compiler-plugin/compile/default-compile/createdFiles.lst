@@ -1,0 +1,8 @@
+baseMain_Utility\Sleep.class
+ASOS_Pages\Checkout_Page.class
+ASOS_Pages\Product_Details_Page.class
+ASOS_Pages\SignInPage.class
+ASOS_Pages\HomePage.class
+baseMain_Utility\Base_Main.class
+ASOS_Pages\ProductSearchPage.class
+ASOS_Pages\JoinASOS.class
